@@ -1,5 +1,5 @@
-# 🏥 Clinical Policy & Factuality Agent
-### Agentic AI Course — Day 13 Capstone Project
+# 🏥 Clinical Policy Agent
+### Agentic AI Course — Capstone Project
 
 An AI assistant for hospital staff to query internal clinical guidelines, powered by **LangGraph**, **ChromaDB RAG**, and **self-reflection** to prevent medical hallucinations.
 
@@ -8,11 +8,10 @@ An AI assistant for hospital staff to query internal clinical guidelines, powere
 ## 📁 Project Structure
 
 ```
-capstone/
+clinical_policy_agent/
 ├── agent.py                  # Core LangGraph logic (state, nodes, tools, graph)
 ├── capstone_streamlit.py     # Streamlit UI frontend
-├── day13_capstone.ipynb      # 31-cell evaluation & demo notebook
-├── generate_notebook.py      # Script to regenerate the notebook
+├── capstone.ipynb            # 31-cell evaluation & demo notebook
 ├── requirements.txt          # Python dependencies
 └── README.md
 ```
