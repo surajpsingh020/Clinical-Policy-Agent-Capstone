@@ -1,4 +1,4 @@
-# 🏥 Clinical Policy Agent
+# 🏥 Clinical Policy & Factuality Agent
 ### Agentic AI Course — Capstone Project
 
 An AI assistant for hospital staff to query internal clinical guidelines, powered by **LangGraph**, **ChromaDB RAG**, and **self-reflection** to prevent medical hallucinations.
