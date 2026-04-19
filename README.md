@@ -11,7 +11,7 @@ An AI assistant for hospital staff to query internal clinical guidelines, powere
 clinical_policy_agent/
 ├── agent.py                  # Core LangGraph logic (state, nodes, tools, graph)
 ├── capstone_streamlit.py     # Streamlit UI frontend
-├── capstone.ipynb            # 31-cell evaluation & demo notebook
+├── capstone.ipynb            # 13-cell evaluation & demo notebook
 ├── requirements.txt          # Python dependencies
 └── README.md
 ```
